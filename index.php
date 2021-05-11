@@ -20,3 +20,5 @@
             $action = 'get_quotes_by_id';
         }
     }
+
+    include('view/quote_list.php');
